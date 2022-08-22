@@ -1,6 +1,6 @@
 # Project 01: Process Queue Shell
 
-This is [Project 01] of [CSE.30341.fa22].
+This is [Project 01] of [CSE.30341.FA22].
 
 ## Students
 
@@ -61,4 +61,4 @@ approach implementing [Project 01].
 > Describe any known errors, bugs, or deviations from the requirements.
 
 [Project 01]:       https://www3.nd.edu/~pbui/teaching/cse.30341.fa22/project01.html
-[CSE.30341.fa22]:   https://www3.nd.edu/~pbui/teaching/cse.30341.fa22/
+[CSE.30341.FA22]:   https://www3.nd.edu/~pbui/teaching/cse.30341.fa22/
